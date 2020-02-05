@@ -1,0 +1,13 @@
+I:\Work\3 grade\Крос-платформне програмування\Lab4\Lab4\bin\Debug\Lab4.exe.config
+I:\Work\3 grade\Крос-платформне програмування\Lab4\Lab4\bin\Debug\Lab4.exe
+I:\Work\3 grade\Крос-платформне програмування\Lab4\Lab4\bin\Debug\Lab4.pdb
+I:\Work\3 grade\Крос-платформне програмування\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+I:\Work\3 grade\Крос-платформне програмування\Lab4\Lab4\obj\Debug\Lab4.exe
+I:\Work\3 grade\Крос-платформне програмування\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\avata\OneDrive\Рабочий стол\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\avata\OneDrive\Рабочий стол\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\avata\OneDrive\Рабочий стол\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\avata\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\avata\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\avata\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\avata\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.pdb
